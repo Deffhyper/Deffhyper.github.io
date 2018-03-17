@@ -1,0 +1,440 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>modal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+          integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/css/iziModal.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+</head>
+<body>
+
+
+<div class="main-screen">
+    <div class="text-center">
+        <div class="tip"><i class="fa fa-info-circle"></i><span>Показать модальное окно</span></div>
+        <a href="#" id="modal-launcher" class="btn btn--md btn--blue">Открыть</a>
+    </div>
+
+</div>
+
+<div id="modal" class="custom-modal">
+
+    <div class="modal-document">
+
+        <div class="modal-header">
+            <button data-izimodal-close="" class="modal-close"></button>
+            <h4 class="modal-title">Аналитика по площадкам</h4>
+        </div>
+
+        <div class="modal-body">
+            <div class="tab">
+                <ul class="tab-header list-inline">
+                    <li class="active"><a href="#">Таблица</a></li>
+                    <li><a href="#">График</a></li>
+                </ul>
+                <div class="tab-body">
+                    <div class="tab-body__item active">
+                        <h4 class="tab-body-title">Аналитика данных в таблице</h4>
+                        <div class="tab-table">
+                            <table id="table_id" class="table-body" style="width:100%">
+                                <thead>
+                                <tr>
+                                    <th>Preview</th>
+                                    <th>Время <i class="color-accent fa fa-sort-amount-asc"></i></th>
+                                    <th>Статус</th>
+                                    <th>Площадка <i class="fa fa-exchange"></i></th>
+                                    <th>Тип</th>
+                                    <th>Цена <i class="fa fa-exchange"></i></th>
+                                    <th>Активность <i class="fa fa-exchange"></i></th>
+                                    <th>Подписок <i class="fa fa-exchange"></i></th>
+                                    <th>Пол <i class="fa fa-exchange"></i></th>
+                                    <th>Возраст <i class="fa fa-exchange"></i></th>
+                                    <th>CPA <i class="fa fa-exchange"></i></th>
+                                    <th></th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <td></td>
+                                    <td>
+                                        <form action="#" class="form-sort">
+                                            <input type="text" class="custom-input" placeholder="От">
+                                            <input type="text" class="custom-input" placeholder="До">
+                                        </form>
+                                    </td>
+                                    <td>
+                                        <select name="" class="custom-select">
+                                            <option value="0">Все</option>
+                                            <option value="0">1</option>
+                                            <option value="0">2</option>
+                                            <option value="0">3</option>
+                                        </select>
+                                    </td>
+                                    <td>
+                                        <form action="" class="form-search">
+                                            <input type="text" class="custom-input" placeholder="Поиск...">
+                                        </form>
+                                    </td>
+                                    <td>
+                                        <select name="" class="custom-select">
+                                            <option value="0">E</option>
+                                            <option value="0">1</option>
+                                            <option value="0">2</option>
+                                            <option value="0">3</option>
+                                        </select>
+                                    </td>
+                                    <td>
+                                        <form action="#" class="form-sort">
+                                            <input type="text" class="custom-input" placeholder="От">
+                                            <input type="text" class="custom-input" placeholder="До">
+                                        </form>
+                                    </td>
+                                    <td>
+                                        <form action="#" class="form-sort">
+                                            <input type="text" class="custom-input" placeholder="От">
+                                            <input type="text" class="custom-input" placeholder="До">
+                                        </form>
+                                    </td>
+                                    <td>
+                                        <form action="#" class="form-sort">
+                                            <input type="text" class="custom-input" placeholder="От">
+                                            <input type="text" class="custom-input" placeholder="До">
+                                        </form>
+                                    </td>
+                                    <td>
+                                        <form action="#" class="form-sort">
+                                            <input type="text" class="custom-input" placeholder="От">
+                                            <input type="text" class="custom-input" placeholder="До">
+                                        </form>
+                                    </td>
+                                    <td>
+                                        <select name="" class="custom-select">
+                                            <option value="0">Все</option>
+                                            <option value="0">1</option>
+                                            <option value="0">2</option>
+                                            <option value="0">3</option>
+                                        </select>
+                                    </td>
+                                    <td>
+                                        <form action="#" class="form-sort">
+                                            <input type="text" class="custom-input" placeholder="От">
+                                            <input type="text" class="custom-input" placeholder="До">
+                                        </form>
+                                    </td>
+                                    <td><i class="fa fa-filter" aria-hidden="true"></i></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="text-center">
+                                        <a href="#">
+                                            <img src="https://placeholdit.co//i/38x60">
+                                        </a>
+                                    </td>
+                                    <td>
+                                        <time class="table-time">16.06.12 16:10</time>
+                                    </td>
+                                    <td class="text-center"><i class="fa fa-check color-green" aria-hidden="true"></i>
+                                    </td>
+                                    <td>
+                                        <a href="#" class="table-source">
+                                           <span class="table-source__icon">
+                                               <img src="https://placeholdit.co//i/55x55">
+                                           </span>
+                                            <span class="table-source__text">Группа вконтакте</span>
+                                        </a>
+                                    </td>
+                                    <td class="text-center">
+                                        <a href="#" rel="nofollow" class="tooltip">
+                                            <span class="tooltip-bord">Информационный пост</span>
+                                            <i class="fa fa-info fa-lg" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                    <td>7 234p.</td>
+                                    <td>
+                                        <ul class="table-activity list-inline text-center">
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-heart" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-bullhorn" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-comments" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </td>
+                                    <td class="text-right"><span class="font-bold">0</span></td>
+                                    <td class="text-center">
+                                        <i class="fa fa-ban fa-lg" aria-hidden="true"></i>
+                                    </td>
+                                    <td class="text-center">
+                                        <i class="fa fa-ban fa-lg" aria-hidden="true"></i>
+                                    </td>
+                                    <td class="text-center">
+                                        <i class="fa fa-ban fa-lg" aria-hidden="true"></i>
+                                    </td>
+                                    <td><i class="fa fa-info-circle color-accent"></i></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="text-center">
+                                        <a href="#">
+                                            <img src="https://placeholdit.co//i/38x60">
+                                        </a>
+                                    </td>
+                                    <td>
+                                        <time class="table-time">16.06.12 16:10</time>
+                                    </td>
+                                    <td class="text-center"><i class="fa fa-check color-green" aria-hidden="true"></i>
+                                    </td>
+                                    <td>
+                                        <a href="#" class="table-source">
+                                           <span class="table-source__icon">
+                                               <img src="https://placeholdit.co//i/55x55">
+                                           </span>
+                                            <span class="table-source__text">Группа вконтакте</span>
+                                        </a>
+                                    </td>
+                                    <td class="text-center">
+                                        <a href="#" rel="nofollow" class="tooltip">
+                                            <span class="tooltip-bord">Информационный пост</span>
+                                            <i class="fa fa-info fa-lg" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                    <td>7 234p.</td>
+                                    <td>
+                                        <ul class="table-activity list-inline text-center">
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-heart" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-bullhorn" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-comments" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </td>
+                                    <td class="text-right"><span class="color-red font-bold">1221</span></td>
+                                    <td>
+                                        <span class="pie">3/5</span>
+                                    </td>
+                                    <td>
+                                        <span class="bar">5,3,9,6,5,9,7,3</span>
+                                    </td>
+                                    <td class="text-right"><span class="color-red font-bold">2.6p</span></td>
+                                    <td><i class="fa fa-info-circle color-accent"></i></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="text-center">
+                                        <a href="#">
+                                            <img src="https://placeholdit.co//i/38x60">
+                                        </a>
+                                    </td>
+                                    <td>
+                                        <time class="table-time">16.06.12 16:10</time>
+                                    </td>
+                                    <td class="text-center"><i class="fa fa-check color-green" aria-hidden="true"></i>
+                                    </td>
+                                    <td>
+                                        <a href="#" class="table-source">
+                                           <span class="table-source__icon">
+                                               <img src="https://placeholdit.co//i/55x55">
+                                           </span>
+                                            <span class="table-source__text">Группа вконтакте</span>
+                                        </a>
+                                    </td>
+                                    <td class="text-center">
+                                        <a href="#" rel="nofollow" class="tooltip">
+                                            <span class="tooltip-bord">Информационный пост</span>
+                                            <i class="fa fa-info fa-lg" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                    <td>7 234p.</td>
+                                    <td>
+                                        <ul class="table-activity list-inline text-center">
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-heart" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-bullhorn" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-comments" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </td>
+                                    <td class="text-right"><span class="color-red font-bold">1221</span></td>
+                                    <td>
+                                        <span class="pie">2/8</span>
+                                    </td>
+                                    <td>
+                                        <span class="bar">4,3,2,6,5,0,0,3</span>
+                                    </td>
+                                    <td class="text-right"><span class="color-red font-bold">2.6p</span></td>
+                                    <td><i class="fa fa-info-circle color-accent"></i></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="text-center">
+                                        <a href="#">
+                                            <img src="https://placeholdit.co//i/38x60">
+                                        </a>
+                                    </td>
+                                    <td>
+                                        <time class="table-time">16.06.12 16:10</time>
+                                    </td>
+                                    <td class="text-center"><i class="fa fa-check color-green" aria-hidden="true"></i>
+                                    </td>
+                                    <td>
+                                        <a href="#" class="table-source">
+                                           <span class="table-source__icon">
+                                               <img src="https://placeholdit.co//i/55x55">
+                                           </span>
+                                            <span class="table-source__text">Группа вконтакте</span>
+                                        </a>
+                                    </td>
+                                    <td class="text-center">
+                                        <a href="#" rel="nofollow" class="tooltip">
+                                            <span class="tooltip-bord">Информационный пост</span>
+                                            <i class="fa fa-info fa-lg" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                    <td>7 234p.</td>
+                                    <td>
+                                        <ul class="table-activity list-inline text-center">
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-heart" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-bullhorn" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-comments" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </td>
+                                    <td class="text-right"><span class="color-red font-bold">1221</span></td>
+                                    <td>
+                                        <span class="pie">3/4</span>
+                                    </td>
+                                    <td>
+                                        <span class="bar">1,2,2,3,4,5,6,9</span>
+                                    </td>
+                                    <td class="text-right"><span class="color-red font-bold">2.6p</span></td>
+                                    <td><i class="fa fa-info-circle color-accent"></i></td>
+                                </tr>
+
+                                <tr>
+                                    <td class="text-center">
+                                        <a href="#">
+                                            <img src="https://placeholdit.co//i/38x60">
+                                        </a>
+                                    </td>
+                                    <td>
+                                        <time class="table-time">16.06.12 16:10</time>
+                                    </td>
+                                    <td class="text-center"><i class="fa fa-check color-green" aria-hidden="true"></i>
+                                    </td>
+                                    <td>
+                                        <a href="#" class="table-source">
+                                           <span class="table-source__icon">
+                                               <img src="https://placeholdit.co//i/55x55">
+                                           </span>
+                                            <span class="table-source__text">Группа вконтакте</span>
+                                        </a>
+                                    </td>
+                                    <td class="text-center">
+                                        <a href="#" rel="nofollow" class="tooltip">
+                                            <span class="tooltip-bord">Информационный пост</span>
+                                            <i class="fa fa-info fa-lg" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                    <td>7 234p.</td>
+                                    <td>
+                                        <ul class="table-activity list-inline text-center">
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-heart" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-bullhorn" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#" class="color-accent">
+                                                    <i class="fa fa-comments" aria-hidden="true"></i>0
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </td>
+                                    <td class="text-right"><span class="color-red font-bold">1221</span></td>
+                                    <td>
+                                        <span class="pie">1/4</span>
+                                    </td>
+                                    <td>
+                                        <span class="bar">4,3,3,3,5,1,1,3</span>
+                                    </td>
+                                    <td class="text-right"><span class="color-red font-bold">2.6p</span></td>
+                                    <td><i class="fa fa-info-circle color-accent"></i></td>
+                                </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="tab-body__item">
+                        <h4 class="tab-body-title">Аналитика данных в графике</h4>
+                        <div id="graphic" style="min-width: 100%; height: 473px; margin: 0 auto"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+<script src="https://code.highcharts.com/highcharts.src.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/izimodal/1.5.1/js/iziModal.min.js"></script>
+<script src="libs/pie-charts/jquery.peity.min.js"></script>
+<script src="js/common.js"></script>
+</body>
+</html>
