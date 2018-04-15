@@ -2,156 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/awesome/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/awesome/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/awesome/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/awesome/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/Firasanscondensedregular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/Firasanscondensedregular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/Firasanscondensedregular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-bold-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-extrabold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-extrabold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-extrabold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-extrabold-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-semibold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-semibold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-semibold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-semibold-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-black-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-black-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-black-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-black-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-bold-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-italic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-italic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-italic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-italic-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-light-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-light-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-light-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-light-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-regular-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/iconmoon/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/iconmoon/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/iconmoon/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/404.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/brand-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/brand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/breadcrumbs-back.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/breadcrumbs-interactive-back.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/cat-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/cat-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/cat-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/image-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lb-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lb-small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lookbook-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lookbook-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lookbook-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lookbook-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lookbook.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/man-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/man-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/man.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/n-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/n-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/n-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/n-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/news-d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/picker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-sm-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-sm-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-sm-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/rd-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/rd-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/s-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/s-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/search-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/search-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/shop-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/shop-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/shop-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/size-table.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/sub-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/sub-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/sub-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/sub-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/sub-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/tech-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/tech-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/tech-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/tech-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/double-right-arr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/picker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/qLeft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/qRight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/scroller.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/st-new.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/st-sale.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/st-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_sprite/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/01.main-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/26.store-locator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/css/libs.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/css/main.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-extrabold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-semibold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-black-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-italic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-light-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/iconmoon/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/iconmoon/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/c-picker.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/email.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/fb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/magnifying-glass.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/map-of-roads.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/picker.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/play.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/js/libs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dsm-trade/01.main-page.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/helveticamedium-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/helveticamedium-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/helveticamedium-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/helveticamedium-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/helveticamedium-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/libs/pie-charts/jquery.peity.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="reverse-side.iws" />
@@ -175,25 +35,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="01.main-page.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/m-tac/01.main-page.html">
+        <entry file="file://$PROJECT_DIR$/dsm-trade/01.main-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="551" column="33" selection-start-line="551" selection-start-column="33" selection-end-line="551" selection-end-column="33" />
+            <state relative-caret-position="194">
+              <caret line="2055" column="27" selection-start-line="2055" selection-start-column="27" selection-end-line="2055" selection-end-column="27" />
               <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="26.store-locator.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/m-tac/26.store-locator.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="880" column="0" selection-start-line="880" selection-start-column="0" selection-end-line="880" selection-end-column="0" />
-              <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -223,6 +77,8 @@
         <option value="$PROJECT_DIR$/pizza/style.css" />
         <option value="$PROJECT_DIR$/m-tac/01.main-page.html" />
         <option value="$PROJECT_DIR$/m-tac/26.store-locator.html" />
+        <option value="$PROJECT_DIR$/dsm-trade/01.main-page.php" />
+        <option value="$PROJECT_DIR$/dsm-trade/01.main-page.html" />
       </list>
     </option>
   </component>
@@ -285,20 +141,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Deffhyper.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Deffhyper.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="m-tac" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -319,6 +161,7 @@
       <recent name="D:\workspace\reverse-side" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\myGitPages\Deffhyper.github.io\dsm-trade" />
       <recent name="D:\workspace\myGitPages\Deffhyper.github.io\m-tac" />
       <recent name="D:\workspace\myGitPages\Deffhyper.github.io" />
       <recent name="D:\workspace\reverse-side\libs\pie-charts" />
@@ -373,7 +216,7 @@
       <workItem from="1521279913974" duration="1614000" />
       <workItem from="1521282221346" duration="19000" />
       <workItem from="1521282397953" duration="29855000" />
-      <workItem from="1523790725822" duration="1557000" />
+      <workItem from="1523790725822" duration="2170000" />
     </task>
     <task id="LOCAL-00001" summary="add pizza project&#10;">
       <created>1523790886827</created>
@@ -396,11 +239,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523791696060</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add m-tac project">
+      <created>1523792332381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1523792332381</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33045000" />
+    <option name="totallyTimeSpent" value="33658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -442,7 +292,8 @@
     <MESSAGE value="add pizza project&#10;" />
     <MESSAGE value="fix pizza desktop style" />
     <MESSAGE value="add rainier gsap animation project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add rainier gsap animation project" />
+    <MESSAGE value="add m-tac project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add m-tac project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -453,17 +304,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -471,17 +312,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -496,17 +327,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -570,17 +391,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -625,6 +436,23 @@
           <caret line="551" column="33" selection-start-line="551" selection-start-column="33" selection-end-line="551" selection-end-column="33" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dsm-trade/01.main-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="2055" column="27" selection-start-line="2055" selection-start-column="27" selection-end-line="2055" selection-end-column="27" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
