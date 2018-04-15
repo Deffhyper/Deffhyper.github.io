@@ -59,13 +59,11 @@ filter: progid:DXImageTransform.Microsoft.dropshadow(offX=0, offY=0, color=#0000
     height: 80px;
 }
 .dough img {
-    margin: -37px -86px -2px 121px;
-    filter: alpha(Opacity=50);
     opacity: 0.5;
+    display: inline-block;
+    vertical-align: top;
 }
 div.dough > img.active {
-    margin: -37px -86px -2px 121px;
-    filter: alpha(Opacity=100);
     opacity: 1; 
 }
 .size ul{
