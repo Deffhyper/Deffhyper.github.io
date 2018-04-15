@@ -1,7 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="" />
+    <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/0ed54f93d4fd2757db8f3d819b028db8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/39c3580b6ad4ecb63e8dd26830e57c07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/4b062dffc455e19fd1b3ba63752446ea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/545d93dab68c77f64d824897e99bb718.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/54c7abb4dd2df47f816b36f40985e9e0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/82e2ed56017b68dc8aa1eda28cb74a0c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/91d3e3aea68acb69e40ad5640908ced1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/Bavarian sausagesLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/Custom_Pizza_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/Italian sausagesLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/Ranch.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/Vienna sausagesLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/addit-types.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/ananas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/barbeqLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/barbequ.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/bbq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/beconLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/c18695784dd9470d7a249ee547e66156.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/cheezChedder.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/cheezDorBlue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/cheezFeta.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/cheezFiladelfia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/cheezParmizan.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/chicken grillLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/corn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/cornLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/crabmeatLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/d35d9e851329196144a68d4d12a59f93.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/d63185a7cb4e03f5db494e663453ecc5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/dbfad6420843c9bfb1882d12b0af2c0d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/ddac6d8417739a2dcaf95ba32f5a8efe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/de2d8e21946959e30c3dd449543942b5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/garlik.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/hamLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/item-americano.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/item-italano.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/jalapeLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/kunzjutBortik.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/maslini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/mocarella.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/musselsLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/ogurMarinov.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/olivesLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/olivki.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/onionLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/onjon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/oregano.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/oreganoLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/parsleyLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/pepperBolgar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/pepperHalapenio.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/petrush.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/pineappleLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/pizza-size-large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/ranch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/repeat_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/salmonLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/salsa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/sesame rimLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/shimpLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/smoked chickenLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/squidLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/tomato.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/img/tunaLayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/pizza.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/jquery-2.2.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pizza/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="reverse-side.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,8 +97,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            <state relative-caret-position="144">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -51,8 +123,8 @@
       </list>
     </option>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -111,52 +183,24 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="reverse-side" />
+              <option name="myItemId" value="Deffhyper.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="reverse-side" />
+              <option name="myItemId" value="Deffhyper.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="reverse-side" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reverse-side" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reverse-side" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reverse-side" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reverse-side" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="Deffhyper.github.io" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,12 +213,13 @@
     <property name="js-jscs-package" value="C:\Users\Deff\AppData\Roaming\npm\node_modules\jscs" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workspace\reverse-side\libs\pie-charts" />
-      <recent name="D:\workspace\reverse-side\fonts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspace\reverse-side" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\myGitPages\Deffhyper.github.io" />
+      <recent name="D:\workspace\reverse-side\libs\pie-charts" />
+      <recent name="D:\workspace\reverse-side\fonts" />
     </key>
   </component>
   <component name="RunManager">
@@ -225,30 +270,31 @@
       <workItem from="1521279913974" duration="1614000" />
       <workItem from="1521282221346" duration="19000" />
       <workItem from="1521282397953" duration="29855000" />
+      <workItem from="1523790725822" duration="141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31488000" />
+    <option name="totallyTimeSpent" value="31629000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26172465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2655068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25980392" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25980392" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -274,8 +320,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -286,33 +332,6 @@
             <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1006#1040#0" expanded="false" />
-            <element signature="e#1044#1086#0" expanded="false" />
-            <element signature="e#1125#1147#0" expanded="false" />
-            <element signature="e#1165#1189#0" expanded="false" />
-            <element signature="e#1200#1249#0" expanded="false" />
-            <element signature="e#1258#1292#0" expanded="false" />
-            <element signature="e#1317#1444#0" expanded="false" />
-            <element signature="e#1449#1473#0" expanded="false" />
-            <element signature="e#1478#1502#0" expanded="false" />
-            <element signature="e#1507#1531#0" expanded="false" />
-            <element signature="e#1536#1560#0" expanded="false" />
-            <element signature="e#1569#1625#0" expanded="false" />
-            <element signature="e#1741#1783#0" expanded="false" />
-            <element signature="e#1812#1854#0" expanded="false" />
-            <element signature="e#1885#1927#0" expanded="false" />
-            <element signature="e#1961#2003#0" expanded="false" />
-            <element signature="e#2197#2239#0" expanded="false" />
-            <element signature="e#2276#2318#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -339,26 +358,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding>
-            <element signature="e#1006#1040#0" expanded="false" />
-            <element signature="e#1044#1086#0" expanded="false" />
-            <element signature="e#1125#1147#0" expanded="false" />
-            <element signature="e#1165#1189#0" expanded="false" />
-            <element signature="e#1200#1249#0" expanded="false" />
-            <element signature="e#1258#1292#0" expanded="false" />
-            <element signature="e#1317#1444#0" expanded="false" />
-            <element signature="e#1449#1473#0" expanded="false" />
-            <element signature="e#1478#1502#0" expanded="false" />
-            <element signature="e#1507#1531#0" expanded="false" />
-            <element signature="e#1536#1560#0" expanded="false" />
-            <element signature="e#1569#1625#0" expanded="false" />
-            <element signature="e#1741#1783#0" expanded="false" />
-            <element signature="e#1812#1854#0" expanded="false" />
-            <element signature="e#1885#1927#0" expanded="false" />
-            <element signature="e#1961#2003#0" expanded="false" />
-            <element signature="e#2197#2239#0" expanded="false" />
-            <element signature="e#2276#2318#0" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -380,19 +404,11 @@
     <entry file="file://$PROJECT_DIR$/app/js/common.js" />
     <entry file="file://$PROJECT_DIR$/app/sass/_typography.scss" />
     <entry file="file://$PROJECT_DIR$/app/sass/libs.sass" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.332/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.332/stylesheet.css" />
     <entry file="file://$PROJECT_DIR$/libs/pie-charts/jquery.peity.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -400,7 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="268" column="116" selection-start-line="268" selection-start-column="116" selection-end-line="268" selection-end-column="116" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -408,33 +423,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding>
-            <element signature="e#1006#1040#0" expanded="false" />
-            <element signature="e#1044#1086#0" expanded="false" />
-            <element signature="e#1125#1147#0" expanded="false" />
-            <element signature="e#1165#1189#0" expanded="false" />
-            <element signature="e#1200#1249#0" expanded="false" />
-            <element signature="e#1258#1292#0" expanded="false" />
-            <element signature="e#1317#1444#0" expanded="false" />
-            <element signature="e#1449#1473#0" expanded="false" />
-            <element signature="e#1478#1502#0" expanded="false" />
-            <element signature="e#1507#1531#0" expanded="false" />
-            <element signature="e#1536#1560#0" expanded="false" />
-            <element signature="e#1569#1625#0" expanded="false" />
-            <element signature="e#1741#1783#0" expanded="false" />
-            <element signature="e#1812#1854#0" expanded="false" />
-            <element signature="e#1885#1927#0" expanded="false" />
-            <element signature="e#1961#2003#0" expanded="false" />
-            <element signature="e#2197#2239#0" expanded="false" />
-            <element signature="e#2276#2318#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="144">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
