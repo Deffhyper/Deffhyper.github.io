@@ -1,0 +1,84 @@
+
+.icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-history:before {
+  content: "\e915";
+}
+.icon-list:before {
+  content: "\e916";
+}
+.icon-envelope:before {
+  content: "\e911";
+}
+.icon-phone-call:before {
+  content: "\e912";
+}
+.icon-picker:before {
+  content: "\e913";
+}
+.icon-refresh2:before {
+  content: "\e914";
+}
+.icon-twitter:before {
+  content: "\e910";
+}
+.icon-bottle:before {
+  content: "\e90b";
+}
+.icon-comment:before {
+  content: "\e90c";
+}
+.icon-power:before {
+  content: "\e90d";
+}
+.icon-tools:before {
+  content: "\e90e";
+}
+.icon-truck:before {
+  content: "\e90f";
+}
+.icon-justice:before {
+  content: "\e90a";
+}
+.icon-home:before {
+  content: "\e909";
+}
+.icon-clock:before {
+  content: "\e900";
+}
+.icon-fb:before {
+  content: "\e901";
+}
+.icon-gp:before {
+  content: "\e902";
+}
+.icon-li:before {
+  content: "\e903";
+}
+.icon-message:before {
+  content: "\e904";
+}
+.icon-m-glass:before {
+  content: "\e905";
+}
+.icon-shopping-cart:before {
+  content: "\e906";
+}
+.icon-user:before {
+  content: "\e907";
+}
+.icon-yt:before {
+  content: "\e908";
+}
