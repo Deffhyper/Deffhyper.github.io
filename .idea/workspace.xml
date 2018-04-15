@@ -2,8 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Black.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Black.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Black.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Bold.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Medium.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/_DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_1part.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_bird_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_bird_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_cloud_sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_clouds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_mountain_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_mountains_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/menu_popup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_canada_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_canada_clouds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_canada_forest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_canada_ground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_canada_sun_clouds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_mexica_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_mexica_buildings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_mexica_cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_mexica_ground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_mexica_sun_clouds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_ny_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_ny_buildings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_ny_clouds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_ny_clouds_sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_ny_ground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen3_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen3_bubble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen3_cargo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen3_client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen3_manager.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_building.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_clouds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_truck1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_truck2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_truck3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_truck4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_crips.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_open-truck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_truck_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_truck_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_buildings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_cargo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_cloud_sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_driver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_ground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_pogruzchik.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen7_buildings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen7_cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen7_cloud_sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen7_ground.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen7_mountains.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/_DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/truck_all_sscreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/css/index.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/css/indexmin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/canada_img.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/image.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/image1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/mex_img.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/ny_img.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/Vintage_logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/facebook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/linkedin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/menu.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/nav.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/twitter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.fullpage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.fullpage.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.fullpage.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.gsap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.gsap.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.gsap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.jquery.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pizza/style.css" afterPath="$PROJECT_DIR$/pizza/style.css" />
     </list>
     <ignored path="reverse-side.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,31 +129,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rainier/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pizza/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+            <state relative-caret-position="153">
+              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -149,7 +233,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pizza" />
+              <option name="myItemId" value="rainier" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -226,7 +310,7 @@
       <workItem from="1521279913974" duration="1614000" />
       <workItem from="1521282221346" duration="19000" />
       <workItem from="1521282397953" duration="29855000" />
-      <workItem from="1523790725822" duration="537000" />
+      <workItem from="1523790725822" duration="869000" />
     </task>
     <task id="LOCAL-00001" summary="add pizza project&#10;">
       <created>1523790886827</created>
@@ -235,11 +319,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523790886827</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix pizza desktop style">
+      <created>1523791304948</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523791304948</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32025000" />
+    <option name="totallyTimeSpent" value="32357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -279,7 +370,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add pizza project&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add pizza project&#10;" />
+    <MESSAGE value="fix pizza desktop style" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix pizza desktop style" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -292,14 +384,14 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -310,14 +402,14 @@
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -335,14 +427,14 @@
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -394,28 +486,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pizza/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="60" column="10" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pizza/style.css">
+    <entry file="file://$PROJECT_DIR$/rainier/static/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rainier/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
           <folding />
         </state>
       </provider>
