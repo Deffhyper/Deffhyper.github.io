@@ -2,111 +2,156 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Black.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Black.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Black.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Black.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Medium.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/Lato-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/fonts/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_1part.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_bird_big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_bird_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_cloud_sun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_clouds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_mountain_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/main_mountains_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/menu_popup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_canada_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_canada_clouds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_canada_forest.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_canada_ground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_canada_sun_clouds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_mexica_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_mexica_buildings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_mexica_cloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_mexica_ground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_mexica_sun_clouds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_ny_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_ny_buildings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_ny_clouds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_ny_clouds_sun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen2_ny_ground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen3_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen3_bubble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen3_cargo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen3_client.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen3_manager.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_building.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_clouds.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_truck1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_truck2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_truck3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen4_truck4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_cloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_crips.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_open-truck.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_truck_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen5_truck_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_buildings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_cargo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_cloud_sun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_driver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_ground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen6_pogruzchik.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen7_buildings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen7_cloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen7_cloud_sun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen7_ground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/screen7_mountains.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/_DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/truck_all_sscreen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/css/index.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/css/indexmin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/arrow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/canada_img.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/image.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/image1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/mex_img.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/ny_img.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/Vintage_logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/arrow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/close.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/facebook.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/linkedin.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/menu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/nav.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/img/svg_icons/twitter.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.fullpage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.fullpage.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.fullpage.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.gsap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.gsap.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.gsap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.jquery.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rainier/static/js/index.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/awesome/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/awesome/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/awesome/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/awesome/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/Firasanscondensedregular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/Firasanscondensedregular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/Firasanscondensedregular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-bold-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-bold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-bold-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-extrabold-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-extrabold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-extrabold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-extrabold-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-semibold-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-semibold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-semibold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-semibold-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-black-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-black-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-black-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-black-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-bold-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-bold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-bold-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-italic-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-italic-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-italic-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-italic-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-light-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-light-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-light-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-regular-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/iconmoon/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/iconmoon/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/iconmoon/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/404.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/brand-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/brand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/breadcrumbs-back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/breadcrumbs-interactive-back.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/cat-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/cat-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/cat-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/goods-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/i-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/image-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lb-big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lb-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/line-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lookbook-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lookbook-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lookbook-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lookbook-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/lookbook.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/man-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/man-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/n-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/n-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/n-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/n-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/news-d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/picker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-sm-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-sm-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/prod-sm-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/rd-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/rd-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/s-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/s-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/search-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/search-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/shop-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/shop-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/shop-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/size-table.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/sub-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/sub-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/sub-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/sub-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/sub-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/tech-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/tech-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/tech-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/jpeg_files/tech-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/double-right-arr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/picker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/qLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/qRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/scroller.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/st-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/st-sale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_icons/st-top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/png_sprite/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/01.main-page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/26.store-locator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/css/libs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/css/main.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-bold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-extrabold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans-condenced/firasanscondensed-semibold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-black-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-bold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-italic-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-light-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/firasans/firasans-regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/iconmoon/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/fonts/iconmoon/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/c-picker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/email.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/fb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/magnifying-glass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/map-of-roads.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/picker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/img/svg_icon/play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m-tac/js/libs.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="reverse-side.iws" />
@@ -129,12 +174,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rainier/home.html">
+      <file leaf-file-name="01.main-page.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/m-tac/01.main-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-              <folding />
+            <state relative-caret-position="272">
+              <caret line="551" column="33" selection-start-line="551" selection-start-column="33" selection-end-line="551" selection-end-column="33" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="26.store-locator.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/m-tac/26.store-locator.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="880" column="0" selection-start-line="880" selection-start-column="0" selection-end-line="880" selection-end-column="0" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -161,6 +221,8 @@
         <option value="$PROJECT_DIR$/js/common.js" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/pizza/style.css" />
+        <option value="$PROJECT_DIR$/m-tac/01.main-page.html" />
+        <option value="$PROJECT_DIR$/m-tac/26.store-locator.html" />
       </list>
     </option>
   </component>
@@ -233,7 +295,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rainier" />
+              <option name="myItemId" value="m-tac" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,7 +306,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/OpenServer/domains/m-tac" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
@@ -257,6 +319,7 @@
       <recent name="D:\workspace\reverse-side" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\myGitPages\Deffhyper.github.io\m-tac" />
       <recent name="D:\workspace\myGitPages\Deffhyper.github.io" />
       <recent name="D:\workspace\reverse-side\libs\pie-charts" />
       <recent name="D:\workspace\reverse-side\fonts" />
@@ -310,7 +373,7 @@
       <workItem from="1521279913974" duration="1614000" />
       <workItem from="1521282221346" duration="19000" />
       <workItem from="1521282397953" duration="29855000" />
-      <workItem from="1523790725822" duration="869000" />
+      <workItem from="1523790725822" duration="1557000" />
     </task>
     <task id="LOCAL-00001" summary="add pizza project&#10;">
       <created>1523790886827</created>
@@ -326,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523791304948</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add rainier gsap animation project">
+      <created>1523791696060</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523791696060</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32357000" />
+    <option name="totallyTimeSpent" value="33045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -371,7 +441,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add pizza project&#10;" />
     <MESSAGE value="fix pizza desktop style" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix pizza desktop style" />
+    <MESSAGE value="add rainier gsap animation project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add rainier gsap animation project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -476,6 +547,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="268" column="116" selection-start-line="268" selection-start-column="116" selection-end-line="268" selection-end-column="116" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -520,11 +592,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/m-tac/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m-tac/26.store-locator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="880" column="0" selection-start-line="880" selection-start-column="0" selection-end-line="880" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rainier/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m-tac/01.main-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="551" column="33" selection-start-line="551" selection-start-column="33" selection-end-line="551" selection-end-column="33" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
