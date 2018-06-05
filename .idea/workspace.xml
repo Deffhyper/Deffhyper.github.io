@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="dots animations">
-      <change afterPath="$PROJECT_DIR$/dots-animation/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/.idea/dots-animation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/img/ak-47.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/img/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/img/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/img/cs-go.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/img/cut.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/img/di.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/img/particle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/img/peace.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/img/place.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/js/OrbitControls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/js/three.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/js/tweenmax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dots-animation/server.js" afterDir="false" />
+    <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/dots-animation/img/morty.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dots-animation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dots-animation/index.html" afterDir="false" />
     </list>
     <ignored path="reverse-side.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +23,17 @@
     <favorites_list name="reverse-side" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="127" column="75" selection-start-line="127" selection-start-column="75" selection-end-line="127" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,6 +59,7 @@
         <option value="$PROJECT_DIR$/m-tac/26.store-locator.html" />
         <option value="$PROJECT_DIR$/dsm-trade/01.main-page.php" />
         <option value="$PROJECT_DIR$/dsm-trade/01.main-page.html" />
+        <option value="$PROJECT_DIR$/dots-animation/index.html" />
       </list>
     </option>
   </component>
@@ -92,17 +82,16 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="292" />
-    <option name="y" value="258" />
+    <option name="x" value="1967" />
+    <option name="y" value="-4" />
     <option name="width" value="1873" />
-    <option name="height" value="1056" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,28 +99,40 @@
               <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dots-animation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dots-animation" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js-jscs-package" value="C:\Users\Deff\AppData\Roaming\npm\node_modules\jscs" />
-    <property name="last_opened_file_path" value="Z:/../CreditAsiaDev" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dots-animation/img" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="D:\workspace\myGitPages\Deffhyper.github.io\rainier" />
       <recent name="D:\workspace\myGitPages\Deffhyper.github.io\dsm-trade" />
       <recent name="D:\workspace\myGitPages\Deffhyper.github.io\m-tac" />
-      <recent name="D:\workspace\myGitPages\Deffhyper.github.io" />
-      <recent name="D:\workspace\reverse-side\libs\pie-charts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspace\reverse-side" />
@@ -194,7 +195,8 @@
       <workItem from="1523790725822" duration="3458000" />
       <workItem from="1523821205689" duration="864000" />
       <workItem from="1525768042093" duration="734000" />
-      <workItem from="1528202154458" duration="276000" />
+      <workItem from="1528202154458" duration="366000" />
+      <workItem from="1528212963706" duration="463000" />
     </task>
     <task id="LOCAL-00001" summary="add pizza project&#10;">
       <created>1523790886827</created>
@@ -245,27 +247,44 @@
       <option name="project" value="LOCAL" />
       <updated>1523821589680</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="dots animations">
+      <created>1528202479414</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1528202479414</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36820000" />
+    <option name="totallyTimeSpent" value="37373000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="-4" width="1873" height="1084" extended-state="6" />
+    <frame x="1967" y="-4" width="1873" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27531472" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32948583" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2785988" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32948583" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.25968587" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -386,6 +405,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="3073" column="11" selection-start-line="3073" selection-start-column="11" selection-end-line="3073" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wePlayTv/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <folding>
+            <element signature="n#src#0;n#img#0;n#a#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#div#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#35715#35722#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="127" column="75" selection-start-line="127" selection-start-column="75" selection-end-line="127" selection-end-column="75" />
         </state>
       </provider>
     </entry>
