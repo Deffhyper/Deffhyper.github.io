@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/wePlayTvPage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wePlayTvPage/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wePlayTvPage/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/page.html" afterDir="false" />
     </list>
     <ignored path="reverse-side.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,48 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="67" column="44" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BG.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wePlayTvPage/images/BG.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wePlayTvPage/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-              <folding>
-                <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ru.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wePlayTvPage/ru.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="51" selection-start-line="40" selection-start-column="41" selection-end-line="41" selection-end-column="51" />
-              <folding>
-                <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -98,6 +63,7 @@
         <option value="$PROJECT_DIR$/dots-animation/index.html" />
         <option value="$PROJECT_DIR$/wePlayTvPage/ru.html" />
         <option value="$PROJECT_DIR$/wePlayTvPage/index.html" />
+        <option value="$PROJECT_DIR$/wePlayTvPage/page.html" />
       </list>
     </option>
   </component>
@@ -146,7 +112,7 @@
               <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="wePlayTvPage" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -165,134 +131,16 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\workspace\reverse-side" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wePlayTvPage/js" />
+      <recent name="$PROJECT_DIR$/wePlayTvPage" />
       <recent name="$PROJECT_DIR$/wePlayTvPage/images" />
       <recent name="$PROJECT_DIR$/dots-animation/img" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="D:\workspace\myGitPages\Deffhyper.github.io\rainier" />
-      <recent name="D:\workspace\myGitPages\Deffhyper.github.io\dsm-trade" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/wePlayTvPage/images/bg.d031cd1e.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/wePlayTvPage/images/pic(2).eeedd41d.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/wePlayTvPage/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/wePlayTvPage/manifest.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/wePlayTvPage/ru.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/wePlayTvPage/scripts/main.4969ef6b.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/wePlayTvPage/scripts/manifest.88df8d94.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/wePlayTvPage/scripts/vendor.bcb0d2f8.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/wePlayTvPage/styles/main.10b309c2.css</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\reverse-side" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -357,6 +205,7 @@
       <workItem from="1528361360993" duration="618000" />
       <workItem from="1528790402133" duration="960000" />
       <workItem from="1531897864151" duration="5203000" />
+      <workItem from="1531918408524" duration="1790000" />
     </task>
     <task id="LOCAL-00001" summary="add pizza project&#10;">
       <created>1523790886827</created>
@@ -442,11 +291,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531899262365</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="refactor landing">
+      <created>1531918553336</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1531918553336</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44588000" />
+    <option name="totallyTimeSpent" value="46378000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,18 +314,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1967" y="24" width="1873" height="1056" extended-state="6" />
+    <frame x="1967" y="-4" width="1873" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29173508" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29501915" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32948583" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" visible="true" weight="0.14594595" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" visible="true" weight="0.14585519" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -509,26 +365,10 @@
     <MESSAGE value="add morty" />
     <MESSAGE value="added bg" />
     <MESSAGE value="added bg 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added bg 2" />
+    <MESSAGE value="refactor landing" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor landing" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="44" lean-forward="true" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dots-animation/img/morty.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1905">
@@ -646,8 +486,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wePlayTvPage/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
+        <state relative-caret-position="210">
           <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/ru.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="51" selection-start-line="40" selection-start-column="41" selection-end-line="41" selection-end-column="51" />
           <folding>
             <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#src#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -665,17 +519,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wePlayTvPage/ru.html">
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/css/app.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/css/app.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="51" selection-start-line="40" selection-start-column="41" selection-end-line="41" selection-end-column="51" />
-          <folding>
-            <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
