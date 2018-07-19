@@ -10,6 +10,9 @@
     </list>
     <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wePlayTvPage/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wePlayTvPage/css/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/css/app.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wePlayTvPage/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/js/app.js" afterDir="false" />
     </list>
     <ignored path="reverse-side.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wePlayTvPage/css/app.css">
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="822">
+              <caret column="11884" selection-start-column="11884" selection-end-column="11884" />
             </state>
           </provider>
         </entry>
@@ -211,7 +214,7 @@
       <workItem from="1531897864151" duration="5203000" />
       <workItem from="1531918408524" duration="2437000" />
       <workItem from="1531999058526" duration="84000" />
-      <workItem from="1532012838210" duration="3502000" />
+      <workItem from="1532012838210" duration="4465000" />
     </task>
     <task id="LOCAL-00001" summary="add pizza project&#10;">
       <created>1523790886827</created>
@@ -353,11 +356,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532017932412</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="add fixes to wePlayTv">
+      <created>1532018414001</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1532018414001</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50611000" />
+    <option name="totallyTimeSpent" value="51574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,7 +383,7 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3015873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3015873" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32948583" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.3289689" />
@@ -454,16 +464,10 @@
     <MESSAGE value="added content load function" />
     <MESSAGE value="compressed" />
     <MESSAGE value="prop repare" />
-    <option name="LAST_COMMIT_MESSAGE" value="prop repare" />
+    <MESSAGE value="add fixes to wePlayTv" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fixes to wePlayTv" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1905">
-          <caret line="127" column="75" selection-start-line="127" selection-start-column="75" selection-end-line="127" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1905">
@@ -583,20 +587,23 @@
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/js/app.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret column="11884" selection-start-column="11884" selection-end-column="11884" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wePlayTvPage/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret column="11884" selection-start-column="11884" selection-end-column="11884" />
         </state>
       </provider>
     </entry>
