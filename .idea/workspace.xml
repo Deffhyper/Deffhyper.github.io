@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wePlayTvPage/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wePlayTvPage/css/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/css/app.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wePlayTvPage/img/pic(2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wePlayTvPage/img/pic_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wePlayTvPage/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/page.html" afterDir="false" />
     </list>
     <ignored path="reverse-side.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,7 +26,26 @@
     <favorites_list name="reverse-side" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wePlayTvPage/css/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11884" selection-start-column="11884" selection-end-column="11884" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,6 +119,12 @@
               <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="wePlayTvPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="wePlayTvPage" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -195,7 +225,7 @@
       <workItem from="1531897864151" duration="5203000" />
       <workItem from="1531918408524" duration="2437000" />
       <workItem from="1531999058526" duration="84000" />
-      <workItem from="1532012838210" duration="1308000" />
+      <workItem from="1532012838210" duration="2815000" />
     </task>
     <task id="LOCAL-00001" summary="add pizza project&#10;">
       <created>1523790886827</created>
@@ -316,11 +346,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532015146850</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added content load function">
+      <created>1532015997805</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1532015997805</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48417000" />
+    <option name="totallyTimeSpent" value="49924000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,7 +425,8 @@
     <MESSAGE value="fixed img pos over 1920px" />
     <MESSAGE value="added animation" />
     <MESSAGE value="added blur position" />
-    <option name="LAST_COMMIT_MESSAGE" value="added blur position" />
+    <MESSAGE value="added content load function" />
+    <option name="LAST_COMMIT_MESSAGE" value="added content load function" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
@@ -517,13 +555,6 @@
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -531,6 +562,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11884" selection-start-column="11884" selection-end-column="11884" />
         </state>
       </provider>
     </entry>
