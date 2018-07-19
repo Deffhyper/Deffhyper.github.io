@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wePlayTvPage/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wePlayTvPage/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/page.html" afterDir="false" />
-    </list>
+    <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="" />
     <ignored path="reverse-side.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,7 +23,7 @@
       <file leaf-file-name="page.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="375">
               <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
@@ -86,10 +82,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2187" />
-    <option name="y" value="24" />
-    <option name="width" value="799" />
-    <option name="height" value="1056" />
+    <option name="x" value="1967" />
+    <option name="y" value="-4" />
+    <option name="width" value="1873" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -107,12 +103,6 @@
               <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="wePlayTvPage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="wePlayTvPage" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,8 +122,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/wePlayTvPage/js" />
       <recent name="$PROJECT_DIR$/wePlayTvPage" />
+      <recent name="$PROJECT_DIR$/wePlayTvPage/js" />
       <recent name="$PROJECT_DIR$/wePlayTvPage/images" />
       <recent name="$PROJECT_DIR$/dots-animation/img" />
       <recent name="$PROJECT_DIR$" />
@@ -205,7 +195,7 @@
       <workItem from="1528361360993" duration="618000" />
       <workItem from="1528790402133" duration="960000" />
       <workItem from="1531897864151" duration="5203000" />
-      <workItem from="1531918408524" duration="1790000" />
+      <workItem from="1531918408524" duration="2437000" />
     </task>
     <task id="LOCAL-00001" summary="add pizza project&#10;">
       <created>1523790886827</created>
@@ -298,11 +288,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531918553336</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fixed header, added animation">
+      <created>1531920320205</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1531920320205</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46378000" />
+    <option name="totallyTimeSpent" value="47025000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,7 +312,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1967" y="-4" width="1873" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Remote Host" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29501915" />
@@ -366,7 +362,8 @@
     <MESSAGE value="added bg" />
     <MESSAGE value="added bg 2" />
     <MESSAGE value="refactor landing" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor landing" />
+    <MESSAGE value="fixed header, added animation" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed header, added animation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
@@ -523,15 +520,15 @@
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wePlayTvPage/css/app.css">
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/css/app.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="375">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
