@@ -21,7 +21,7 @@
     <favorites_list name="reverse-side" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -100,18 +100,6 @@
               <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="wePlayTvPage" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="wePlayTvPage" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="wePlayTvPage" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -131,15 +119,15 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\workspace\reverse-side" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/wePlayTvPage" />
       <recent name="$PROJECT_DIR$/wePlayTvPage/js" />
       <recent name="$PROJECT_DIR$/wePlayTvPage/images" />
       <recent name="$PROJECT_DIR$/dots-animation/img" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\reverse-side" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -207,6 +195,7 @@
       <workItem from="1531897864151" duration="5203000" />
       <workItem from="1531918408524" duration="2437000" />
       <workItem from="1531999058526" duration="84000" />
+      <workItem from="1532012838210" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="add pizza project&#10;">
       <created>1523790886827</created>
@@ -313,11 +302,25 @@
       <option name="project" value="LOCAL" />
       <updated>1531999124928</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added animation">
+      <created>1532012880648</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1532012880648</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added blur position">
+      <created>1532015146850</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1532015146850</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47109000" />
+    <option name="totallyTimeSpent" value="48417000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -330,9 +333,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1967" y="-4" width="1873" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29830322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3015873" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32948583" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.3289689" />
@@ -382,7 +386,9 @@
     <MESSAGE value="refactor landing" />
     <MESSAGE value="fixed header, added animation" />
     <MESSAGE value="fixed img pos over 1920px" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed img pos over 1920px" />
+    <MESSAGE value="added animation" />
+    <MESSAGE value="added blur position" />
+    <option name="LAST_COMMIT_MESSAGE" value="added blur position" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
@@ -511,15 +517,15 @@
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/wePlayTvPage/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
