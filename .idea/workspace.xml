@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="d91e7358-b9b8-451a-bcb7-93110fdad62f" name="add fixes to wePlayTv" comment="add fixes to wePlayTv&#10;&#10;(cherry picked from commit 4cc7ce8)">
       <changelist_data name="deff" email="olegkotsubko@gmail.com" date="1525769328000">
         <option name="date" value="1525769328000" />
         <option name="email" value="olegkotsubko@gmail.com" />
         <option name="name" value="deff" />
       </changelist_data>
-    </list>
-    <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wePlayTvPage/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wePlayTvPage/css/app.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/css/app.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wePlayTvPage/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/wePlayTvPage/js/app.js" afterDir="false" />
     </list>
     <ignored path="reverse-side.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,12 +28,26 @@
     <favorites_list name="reverse-side" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="page.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="822">
-              <caret column="11884" selection-start-column="11884" selection-end-column="11884" />
+            <state relative-caret-position="27">
+              <caret column="3263" selection-start-column="3263" selection-end-column="3263" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wePlayTvPage/css/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -99,7 +110,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1967" />
+    <option name="x" value="47" />
     <option name="y" value="-4" />
     <option name="width" value="1873" />
     <option name="height" value="1084" />
@@ -121,6 +132,12 @@
               <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="wePlayTvPage" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Deffhyper.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deffhyper.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="wePlayTvPage" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -138,15 +155,15 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\reverse-side" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/wePlayTvPage" />
       <recent name="$PROJECT_DIR$/wePlayTvPage/js" />
+      <recent name="$PROJECT_DIR$/wePlayTvPage" />
       <recent name="$PROJECT_DIR$/wePlayTvPage/images" />
       <recent name="$PROJECT_DIR$/dots-animation/img" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\workspace\reverse-side" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -215,6 +232,7 @@
       <workItem from="1531918408524" duration="2437000" />
       <workItem from="1531999058526" duration="84000" />
       <workItem from="1532012838210" duration="4465000" />
+      <workItem from="1532020025346" duration="183000" />
     </task>
     <task id="LOCAL-00001" summary="add pizza project&#10;">
       <created>1523790886827</created>
@@ -363,11 +381,25 @@
       <option name="project" value="LOCAL" />
       <updated>1532018414001</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add fixes to wePlayTv 2">
+      <created>1532020081049</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1532020081049</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add fixes to wePlayTv 3">
+      <created>1532020184929</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1532020184929</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51574000" />
+    <option name="totallyTimeSpent" value="51757000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -383,16 +415,16 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3015873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30487138" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32948583" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32948583" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32948583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4969743" weight="0.14585519" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -465,7 +497,9 @@
     <MESSAGE value="compressed" />
     <MESSAGE value="prop repare" />
     <MESSAGE value="add fixes to wePlayTv" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fixes to wePlayTv" />
+    <MESSAGE value="add fixes to wePlayTv 2" />
+    <MESSAGE value="add fixes to wePlayTv 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fixes to wePlayTv 3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
@@ -587,9 +621,7 @@
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/js/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/js/app.js" />
     <entry file="file://$PROJECT_DIR$/wePlayTvPage/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -597,15 +629,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="822">
-          <caret column="11884" selection-start-column="11884" selection-end-column="11884" />
+        <state relative-caret-position="27">
+          <caret column="3263" selection-start-column="3263" selection-end-column="3263" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
