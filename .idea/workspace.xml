@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="" />
     <list id="d91e7358-b9b8-451a-bcb7-93110fdad62f" name="add fixes to wePlayTv" comment="add fixes to wePlayTv&#10;&#10;(cherry picked from commit 4cc7ce8)">
       <changelist_data name="deff" email="olegkotsubko@gmail.com" date="1525769328000">
         <option name="date" value="1525769328000" />
@@ -8,7 +9,6 @@
         <option name="name" value="deff" />
       </changelist_data>
     </list>
-    <list default="true" id="203d91d2-5d00-4dd4-96ea-7180fb0bbb1d" name="Default" comment="" />
     <ignored path="reverse-side.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -26,26 +26,7 @@
     <favorites_list name="reverse-side" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wePlayTvPage/css/app.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wePlayTvPage/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="72" lean-forward="true" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -142,15 +123,15 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\reverse-side" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/wePlayTvPage" />
       <recent name="$PROJECT_DIR$/wePlayTvPage/js" />
       <recent name="$PROJECT_DIR$/wePlayTvPage/images" />
       <recent name="$PROJECT_DIR$/dots-animation/img" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\workspace\reverse-side" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,6 +202,7 @@
       <workItem from="1532012838210" duration="4465000" />
       <workItem from="1532020025346" duration="183000" />
       <workItem from="1532175325941" duration="402000" />
+      <workItem from="1532358444545" duration="210000" />
     </task>
     <task id="LOCAL-00001" summary="add pizza project&#10;">
       <created>1523790886827</created>
@@ -390,11 +372,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532175508000</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add fixes to wePlayTv 6">
+      <created>1532358508881</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1532358508881</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52159000" />
+    <option name="totallyTimeSpent" value="52369000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -406,11 +395,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="-4" width="1873" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="1967" y="-4" width="1873" height="1084" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3087028" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3125342" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32948583" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.3289689" />
@@ -495,7 +483,8 @@
     <MESSAGE value="add fixes to wePlayTv 2" />
     <MESSAGE value="add fixes to wePlayTv 3" />
     <MESSAGE value="add fixes to wePlayTv 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fixes to wePlayTv 4" />
+    <MESSAGE value="add fixes to wePlayTv 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fixes to wePlayTv 6" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dots-animation/index.html">
@@ -620,10 +609,11 @@
     <entry file="file://$PROJECT_DIR$/wePlayTvPage/js/app.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html">
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/page.html" />
+    <entry file="file://$PROJECT_DIR$/wePlayTvPage/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret column="3263" selection-start-column="3263" selection-end-column="3263" />
+        <state relative-caret-position="90">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
         </state>
       </provider>
     </entry>
@@ -631,13 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wePlayTvPage/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="72" lean-forward="true" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
         </state>
       </provider>
     </entry>
